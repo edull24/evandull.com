@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "The source code for evandull.com",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/edull24/evandull.com"
-	},
+    "type": "git",
+    "url": "https://github.com/edull24/evandull.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Evan Dull",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
